@@ -159,7 +159,7 @@ Architectures: amd64, arm32v7, arm64v8
 GitCommit: 85ca3893867505ffbffbdf476722d3897fb3da98
 Directory: 12/stretch
 
-Tags: 12-slim, 12-stretch-slim, 12.22-slim, 12.22-stretch-slim, 12.22.9-slim, 12.22.9-stretch-slim, erbium-slim, erbium-stretch-slim
+Tags: 12-slim, 12-stretch-slim, 12.22-slim, 12.22-stretch-slim, 12.22.9-slim, 12.22.9-stretch-slim, erbium-slim, erbium-stretch-slim, 12-slim-sharpra
 Architectures: amd64, arm32v7, arm64v8
 GitCommit: 85ca3893867505ffbffbdf476722d3897fb3da98
 Directory: 12/stretch-slim
